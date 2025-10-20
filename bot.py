@@ -25,12 +25,12 @@ if not BOT_TOKEN:
 
 # Authorized User IDs (তোমার user IDs এখানে লিখো)
 AUTHORIZED_USERS = [
-    6254367887,  # প্রথম user ID
-    6184309584,  # দ্বিতীয় user ID (যদি থাকে)
+    123456789,  # প্রথম user ID
+    987654321,  # দ্বিতীয় user ID (যদি থাকে)
 ]
 
 # Group ID যেখানে bot কাজ করবে
-WORKING_GROUP_ID = -1003147989304  # তোমার group ID
+WORKING_GROUP_ID = -1003147912587  # তোমার group ID
 
 # Bot এবং Dispatcher Initialize
 bot = Bot(token=BOT_TOKEN)
